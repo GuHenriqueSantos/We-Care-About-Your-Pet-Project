@@ -40,9 +40,8 @@
 <!--- Imagens do projeto -->
 <h2 id="layout">🎨 Layout</h2>
 <p align="center">
-    <img src="https://github.com/GuHenriqueSantos/We-Care-About-Your-Pet-Project/blob/main/assets/ScreenWeCare.png?raw=true" alt="Imagem-Do-Porjeto" width="49%">
-    <img width="6">
-    <img src="https://github.com/GuHenriqueSantos/We-Care-About-Your-Pet-Project/blob/main/assets/MobileWeCare.png?raw=true" alt="Imagem-Do-Porjeto" width="49%">
+    <img src="https://github.com/GuHenriqueSantos/We-Care-About-Your-Pet-Project/blob/main/assets/ScreenWeCare.png?raw=true" alt="Imagem-Do-Porjeto" width="49.5%">
+    <img src="https://github.com/GuHenriqueSantos/We-Care-About-Your-Pet-Project/blob/main/assets/MobileWeCare.png?raw=true" alt="Imagem-Do-Porjeto" width="49.5%">
 </p>
 
 <br>
